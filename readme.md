@@ -1,1 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=header&text=텍스트&fontSize=텍스트크기" />
+# 논자시 코딩 스터디
+
+### 격주 화요일 Leetcode 15문제 (파이썬 + C언어) 깃 푸시하기
+
