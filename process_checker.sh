@@ -10,7 +10,7 @@ git pull
 
 echo ""
 echo "Running process_checker.py..."
-python ./process_checker.py
+python process_checker.py
 
 echo ""
 echo "Pushing to git..."
