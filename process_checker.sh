@@ -1,6 +1,6 @@
 #!/bin/bash
 
-source ~/opt/anaconda3/etc/profile.d/conda.sh
+PATH+=:/Users/jeongsik/opt/anaconda3/bin
 
 cd ~/Development/24H1_QE_Coding
 
