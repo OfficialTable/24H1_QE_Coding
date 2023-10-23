@@ -1,5 +1,7 @@
 #!/bin/bash
 
+PATH+=:/usr/bin
+
 cd ~/Development/24H1_QE_Coding
 
 git pull
