@@ -5,7 +5,7 @@ log_file = 'file_count_log.txt'
 today = datetime.datetime.now()
 date_format = "%Y-%m-%d (%H%M%S)"
 search_directory = './'
-folders = [folder for folder in os.listdir(search_directory) if os.path.isdir(os.path.join(search_directory, folder)) and not folder.startswith('.')]
+folders = [folder for folder in os.listdir(search_directory) if os.path.isdir(os.path.join(search_directory, folder)) and not folder.startswith('.') and not folder.startswith('git')]
 file_counts = {folder: 0 for folder in folders}
 
 if os.path.exists(log_file):
