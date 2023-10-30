@@ -4,6 +4,9 @@ PATH+=:/Users/jeongsik/opt/anaconda3/bin
 
 cd ~/Development/24H1_QE_Coding
 
+git config --global user.email "jeongsikpyo@gmail.com"
+git config --global user.name "OfficialTable"
+
 echo ""
 echo "Pulling from git..."
 git pull
