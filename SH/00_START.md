@@ -20,3 +20,17 @@
 - 015 3Sum
 - 167 Two Sum II - Input Array Is Sorted
 - 392 Is Subsequence
+
+### Week 4 [Palindrome]
+
+- 234 Palindrome Linked List
+- 516 Longest Palindromic Subsequence
+- 5 Longest Palindromic Substring
+- 1312 Minimum Insertion Steps to Make a String Palindrome
+
+### Week 5 []
+
+- Palindrome Linked List
+- Longest Palindromic Subsequence
+- Longest Palindromic Substring
+- 392 Is Subsequence
