@@ -8,8 +8,8 @@ echo "Running process_checker.sh at $timestamp..."
 
 cd ~/Development/24H1_QE_Coding
 
-git config --global user.email "jeongsikpyo@gmail.com"
-git config --global user.name "OfficialTable"
+# git config --global user.email "jeongsikpyo@gmail.com"
+# git config --global user.name "OfficialTable"
 
 echo ""
 echo "Pulling from git..."
