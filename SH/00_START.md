@@ -23,14 +23,14 @@
 
 ### Week 4 [Palindrome]
 
+- 5 Longest Palindromic Substring
 - 234 Palindrome Linked List
 - 516 Longest Palindromic Subsequence
-- 5 Longest Palindromic Substring
 - 1312 Minimum Insertion Steps to Make a String Palindrome
 
-### Week 5 []
+### Week 5 [Hashmap]
 
-- Palindrome Linked List
-- Longest Palindromic Subsequence
-- Longest Palindromic Substring
-- 392 Is Subsequence
+- 1 Two Sum
+- 128 Longest Consecutive Sequence
+- 219 Contains Duplicate II
+- 290 Word Pattern
