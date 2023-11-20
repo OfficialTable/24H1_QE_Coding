@@ -40,7 +40,7 @@ today = datetime.datetime.now()
 date_format = "%Y-%m-%d (%H%M%S)"
 search_directory = './'
 
-folders = [folder for folder in os.listdir(search_directory) if os.path.isdir(os.path.join(search_directory, folder)) and not folder.startswith('.') and not folder.startswith('git')]
+folders = [folder for folder in os.listdir(search_directory) if os.path.isdir(os.path.join(search_directory, folder)) and not folder.startswith('.') and not folder.startswith('git') and not folder.startswith('00_SHARE')]
 
 file_counts = {folder: {'total': 0, '.py': 0, '.c': 0} for folder in folders}
 
