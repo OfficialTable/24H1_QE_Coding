@@ -25,3 +25,11 @@
 - 516 Longest Palindromic Subsequence
 - 005 Longest Palindromic Substring
 - 1312 Minimum Insertion Steps to Make a String Palindrome
+- 1143 Longest Common Subsequence - *Dynamic Programming*
+
+### Week 5 [Hashmap]
+
+- 001 Two Sum
+- 128 Longest Consecutive Sequence
+- 219 Contains Duplicate II
+- 290 Word Pattern
