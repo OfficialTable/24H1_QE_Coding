@@ -26,9 +26,16 @@
 - 5 Longest Palindromic Substring
 - 234 Palindrome Linked List
 - 516 Longest Palindromic Subsequence
+- [1143 Longest Subsequence]
+
+### Week 5 [String]
+
+- 3 Longest Stubstring Without Repeating Characters
+- 151. Reverse Words in a String
+- 209. Minimum Size Subarray Sum
 - 1312 Minimum Insertion Steps to Make a String Palindrome
 
-### Week 5 [Hashmap]
+### Week 6 [Hashmap]
 
 - 1 Two Sum
 - 128 Longest Consecutive Sequence
