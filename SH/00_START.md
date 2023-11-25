@@ -31,8 +31,8 @@
 ### Week 5 [String]
 
 - 3 Longest Stubstring Without Repeating Characters
-- 151. Reverse Words in a String
-- 209. Minimum Size Subarray Sum
+- 151 Reverse Words in a String
+- 209 Minimum Size Subarray Sum
 - 1312 Minimum Insertion Steps to Make a String Palindrome
 
 ### Week 6 [Hashmap]
