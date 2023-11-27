@@ -22,9 +22,9 @@
 - 5 Longest Palindromic Substring - *Dynamic Programming*
 - 1312 Minimum Insertion Steps to Make a String Palindrome
 
-*516과 5번의 차이는 subsequence means a seqeunce that can be derived from another sequence by deleting some or no elements without changing the order of the remaining elements, while substring does not allow deletion.*
+*516과 5번의 차이는 subsequence means a seqeunce that can be derived from another sequence by deleting some or no elements without changing the order of the remaining elements, while substring does not allow deletion. e.g. "bbbab" subsequence: "bbbb", substring: "bbb"*
 
-### Week 4 [String]
+### Week 4 [String] - Sliding Window
 
 * 3 Longest Substring Without Repeating Character - *sliding window*
 * 151 Reverse Words in a String
