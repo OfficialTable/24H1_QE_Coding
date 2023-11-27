@@ -1,5 +1,5 @@
 def threeSum(nums: List[int]) -> List[List[int]]:
-    nums.sort() # To user two pointer
+    nums.sort() # To use two pointer
     answer = []
     for i in range(len(nums)-2):
         # Base cases
