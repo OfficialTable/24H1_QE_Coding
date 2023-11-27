@@ -91,31 +91,31 @@ def find_root_vertices (G):
     return root_list
 
 
-# # Driver Code
-# if __name__ == '__main__':
+# Driver Code
+if __name__ == '__main__':
 
-#     print("test1")
-#     A, B, C = GNode('A'), GNode('B'), GNode('C')
-#     D, E, F = GNode('D'), GNode('E'), GNode('F')
-#     G = dict()
-#     G[A], G[B], G[C] = [C, D] , [A, E], [B, D]
-#     G[D], G[E], G[F] = [F], [F], []
+    print("test1")
+    A, B, C = GNode('A'), GNode('B'), GNode('C')
+    D, E, F = GNode('D'), GNode('E'), GNode('F')
+    G = dict()
+    G[A], G[B], G[C] = [C, D] , [A, E], [B, D]
+    G[D], G[E], G[F] = [F], [F], []
 
-#     # print("GNODE: " , _show_GNode(G))
+    print("GNODE: " , _show_GNode(G))
 
-#     res1 = find_root_vertices(G)
-#     print(res1)
+    res1 = find_root_vertices(G)
+    print(res1)
 
-#     print("test2")
+    print("test2")
 
-#     A, B, C = GNode('A'), GNode('B'), GNode('C')
-#     D, E, F = GNode('D'), GNode('E'), GNode('F')
-#     G = dict()
-#     G[A], G[B], G[C] = [D] , [E], [B, D]
-#     G[D], G[E], G[F] = [F], [F], []
+    A, B, C = GNode('A'), GNode('B'), GNode('C')
+    D, E, F = GNode('D'), GNode('E'), GNode('F')
+    G = dict()
+    G[A], G[B], G[C] = [D] , [E], [B, D]
+    G[D], G[E], G[F] = [F], [F], []
 
-#     # print("GNODE: " , _show_GNode(G))
+    print("GNODE: " , _show_GNode(G))
 
-#     res2 = find_root_vertices(G)
-#     print(res2)
+    res2 = find_root_vertices(G)
+    print(res2)
 
