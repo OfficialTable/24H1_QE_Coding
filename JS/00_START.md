@@ -27,9 +27,10 @@
 - 1312 Minimum Insertion Steps to Make a String Palindrome
 - 1143 Longest Common Subsequence - *Dynamic Programming*
 
-### Week 5 [Hashmap]
 
-- 001 Two Sum
-- 128 Longest Consecutive Sequence
-- 219 Contains Duplicate II
-- 290 Word Pattern
+### Week 5 [String]
+
+- 003 Longest Stubstring Without Repeating Characters
+- 151 Reverse Words in a String
+- 209 Minimum Size Subarray Sum
+- 1312 Minimum Insertion Steps to Make a String Palindrome
