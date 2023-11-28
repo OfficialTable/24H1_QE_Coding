@@ -37,3 +37,10 @@
 - 128 Longest Consecutive Sequence
 - 219 Contains Duplicate II
 - 290 Word Pattern
+
+### Week 6 [BFS]
+
+* 103 Binary Tree Zigzag Level Order Traversal
+* 104 Maximum Depth of Binary Tree
+* 112 Path Sum
+* 297 Serialize and Deserialize Binary Tree
