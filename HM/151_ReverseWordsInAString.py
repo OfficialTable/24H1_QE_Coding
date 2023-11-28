@@ -7,3 +7,13 @@ def reverseWords(s: str) -> str:
         else:
             res = res + " " + temp[i]
     return res
+
+
+# better version
+def reverseWords(s: str) -> str:
+    list_words = s.split()
+    str = ""
+    #" ".join 하면 중간 중간 띄어쓰기도 해줌.
+    str = " ".join(list_words[::-1])
+    return str
+
