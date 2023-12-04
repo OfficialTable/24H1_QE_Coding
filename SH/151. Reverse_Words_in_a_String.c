@@ -35,7 +35,7 @@ char * reverseWords(char * s){
             temp_size = 0;
         }
     }
-    res[res_size-1] = '\0';
+    res[res_size-1] = '\0'; // whitespace
     // copy the contents of res into string s
     strcpy(s, res);
     return s;

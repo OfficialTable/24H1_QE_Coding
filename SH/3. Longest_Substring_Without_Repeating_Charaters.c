@@ -24,9 +24,6 @@ int lengthOfLongestSubstring(char* s) {
     return count;
 }
 
-
-
-
 // Direct translation from python file
 // Not properly worked in Leetcode
 int lengthOfLongestSubstring(char* s) {
