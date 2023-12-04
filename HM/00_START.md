@@ -33,10 +33,10 @@
 
 ### Week 5 [Hashmap]
 
-- [ ] 1 Two Sum
-- [ ] 128 Longest Consecutive Sequence
-- [ ] 219 Contains Duplicate II
-- [ ] 290 Word Pattern
+- [X] 1 Two Sum
+- [ ] 128 Longest Consecutive Sequence - C
+- [ ] 219 Contains Duplicate II - C
+- [X] 290 Word Pattern
 
 ### Week 6 [BFS]
 
