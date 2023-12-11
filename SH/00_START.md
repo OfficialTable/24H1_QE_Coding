@@ -11,7 +11,7 @@
 
 * [X] 121 Best Time to Buy and Sell Stock
 * [X] 125 Valid Palindrome
-* [X] 169 Majproty Element
+* [X] 169 Majority Element
 * [X] 189 Rotate Array
 
 ### Week 3 [Two Pointer]
@@ -51,4 +51,9 @@
 - [ ] 112 Path Sum
 - [ ] 297 Serialize and Deserialize Binary Tree
 
-310 Minimum Height Trees
+### Week 8 [DFS]
+
+- [ ] 207 Course Schedule
+- [ ] 222. Count Complete Tree Nodes
+- [ ] 310 Minimum Height Trees
+- [ ] 1971 Find if Path Exsits in Graph
