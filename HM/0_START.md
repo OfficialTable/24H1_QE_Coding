@@ -44,3 +44,10 @@
 * [X] 104 Maximum Depth of Binary Tree - C안함
 * [ ] 112 Path Sum
 * [ ] 297 Serialize and Deserialize Binary Tree
+
+### Week 7 [DFS]
+
+- [ ] 207 Course Schedule
+- [ ] 222. Count Complete Tree Nodes
+- [ ] 310 Minimum Height Trees
+- [ ] 1971 Find if Path Exsits in Graph
