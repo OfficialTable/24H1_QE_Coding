@@ -40,7 +40,7 @@
 
 ### Week 6 [BFS]
 
-* [ ] 103 Binary Tree Zigzag Level Order Traversal
-* [ ] 104 Maximum Depth of Binary Tree
+* [X] 103 Binary Tree Zigzag Level Order Traversal - C안함
+* [X] 104 Maximum Depth of Binary Tree - C안함
 * [ ] 112 Path Sum
 * [ ] 297 Serialize and Deserialize Binary Tree
