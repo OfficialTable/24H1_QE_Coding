@@ -31,12 +31,12 @@
 * [X] 209 Minimum Size Subarray Sum - *sliding window*
 * [X] 1312 Minimum Insertion Steps to Make a String Palindrome
 
-### Week 5 [Hashmap]
+### Week 5 [Hashmap] - 128, 219 C 보충 필요
 
 - [X] 1 Two Sum
 - [ ] 128 Longest Consecutive Sequence - ***time complexity O(n) 충족시켜야함*** + C 안함
 - [ ] 219 Contains Duplicate II - C안함
-- [ ] 290 Word Pattern
+- [X] 290 Word Pattern
 
 ### Week 6 [BFS]
 
