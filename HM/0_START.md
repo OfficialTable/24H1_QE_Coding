@@ -38,16 +38,16 @@
 - [ ] 219 Contains Duplicate II - C안함
 - [X] 290 Word Pattern
 
-### Week 6 [BFS]
+### Week 6 [BFS] - Tree (Undirected Graph)
 
-* [X] 103 Binary Tree Zigzag Level Order Traversal - C안함
-* [X] 104 Maximum Depth of Binary Tree - C안함
-* [ ] 112 Path Sum
-* [ ] 297 Serialize and Deserialize Binary Tree
+* [X] 103 Binary Tree Zigzag Level Order Traversal - C는 쓰레기..
+* [X] 104 Maximum Depth of Binary Tree - C는 쓰레기..
+* [X] 112 Path Sum
+* [X] 297 Serialize and Deserialize Binary Tree ==> neetcode 다시보기
 
 ### Week 7 [DFS]
 
-- [ ] 207 Course Schedule
-- [ ] 222. Count Complete Tree Nodes
-- [ ] 310 Minimum Height Trees
-- [ ] 1971 Find if Path Exsits in Graph
+- [X] 207 Course Schedule -  다시 이해 필요...옛날에 구현 해놓은 건데 모르겠음
+- [X] 222 Count Complete Tree Nodes
+- [X] 310 Minimum Height Trees
+- [X] 1971 Find if Path Exsits in Graph - DFS/BFS source to target path boolean 문제+ C는 쓰레기..
