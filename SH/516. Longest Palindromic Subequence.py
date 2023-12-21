@@ -2,7 +2,7 @@ def longestPalindromeSubseq(self, s: str) -> int:
     
     dp = [([0] * len(s)) for _ in range(len(s))]
 
-    for left in range(len(s) - 1, -1, -1): # 
+    for left in range(len(s) - 1, -1, -1): 
 
         dp[left][left] = 1
 

@@ -11,7 +11,7 @@
 
 * [X] 121 Best Time to Buy and Sell Stock
 * [X] 125 Valid Palindrome
-* [X] 169 Majproty Element
+* [X] 169 Majority Element
 * [X] 189 Rotate Array
 
 ### Week 3 [Two Pointer]
@@ -27,14 +27,14 @@
 - [X] 234 Palindrome Linked List
 - [X] 516 Longest Palindromic Subsequence
 - [X] 1143 Longest Subsequence
-- [ ] 2217 Find Palindrome With Fixed Length
+- [X] 2217 Find Palindrome With Fixed Length
 
 ### Week 5 [String]
 
 - [X] 3 Longest Stubstring Without Repeating Characters
 - [X] 151 Reverse Words in a String
 - [X] 209 Minimum Size Subarray Sum
-- [ ] 1312 Minimum Insertion Steps to Make a String Palindrome
+- [X] 1312 Minimum Insertion Steps to Make a String Palindrome
 - [X] 9 Palindrome Number
 
 ### Week 6 [Hashmap]
@@ -43,3 +43,17 @@
 - [ ] 128 Longest Consecutive Sequence
 - [ ] 219 Contains Duplicate II
 - [ ] 290 Word Pattern
+
+### Week 7 [BFS]
+
+- [ ] 103 Binary Tree Zigzag Level Order Traversal
+- [ ] 104 Maximum Depth of Binary Tree
+- [ ] 112 Path Sum
+- [ ] 297 Serialize and Deserialize Binary Tree
+
+### Week 8 [DFS]
+
+- [ ] 207 Course Schedule
+- [ ] 222. Count Complete Tree Nodes
+- [ ] 310 Minimum Height Trees
+- [ ] 1971 Find if Path Exsits in Graph
