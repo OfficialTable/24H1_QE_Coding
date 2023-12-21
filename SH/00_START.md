@@ -46,14 +46,34 @@
 
 ### Week 7 [BFS]
 
-- [ ] 103 Binary Tree Zigzag Level Order Traversal
-- [ ] 104 Maximum Depth of Binary Tree
-- [ ] 112 Path Sum
-- [ ] 297 Serialize and Deserialize Binary Tree
+- [X] 103 Binary Tree Zigzag Level Order Traversal
+- [X] 104 Maximum Depth of Binary Tree
+- [X] 112 Path Sum
+- [X] 297 Serialize and Deserialize Binary Tree
 
 ### Week 8 [DFS]
 
-- [ ] 207 Course Schedule
-- [ ] 222. Count Complete Tree Nodes
-- [ ] 310 Minimum Height Trees
-- [ ] 1971 Find if Path Exsits in Graph
+- [X] 207 Course Schedule
+- [X] 222. Count Complete Tree Nodes
+- [X] 310 Minimum Height Trees
+- [X] 1971 Find if Path Exsits in Graph
+
+### Week 9 [DFS]
+
+- [X] 207 Course Schedule
+- [X] 222. Count Complete Tree Nodes
+- [X] 310 Minimum Height Trees
+- [X] 1971 Find if Path Exsits in Graph
+
+class Solution:
+    def wordPattern(self, pattern: str, s: str) -> bool:
+
+    s = s.split()
+
+    return (len(set(pattern)) ==
+                len(set(s)) ==
+                len(set(zip_longest(pattern,s))))
+
+
+
+건의사항 - DFS/BFS를 과연 c로 해야 하는가
