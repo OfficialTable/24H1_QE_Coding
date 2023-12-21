@@ -39,10 +39,10 @@
 
 ### Week 6 [Hashmap]
 
-- [ ] 1 Two Sum
-- [ ] 128 Longest Consecutive Sequence
-- [ ] 219 Contains Duplicate II
-- [ ] 290 Word Pattern
+- [X] 1 Two Sum
+- [X] 128 Longest Consecutive Sequence
+- [X] 219 Contains Duplicate II
+- [X] 290 Word Pattern
 
 ### Week 7 [BFS]
 
