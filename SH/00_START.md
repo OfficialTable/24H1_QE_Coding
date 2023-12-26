@@ -56,24 +56,14 @@
 - [X] 207 Course Schedule
 - [X] 222. Count Complete Tree Nodes
 - [X] 310 Minimum Height Trees
-- [X] 1971 Find if Path Exsits in Graph
+- [X] [1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph)
 
-### Week 9 [DFS]
+### Week 9 [BFS/DFS]
 
-- [X] 207 Course Schedule
-- [X] 222. Count Complete Tree Nodes
-- [X] 310 Minimum Height Trees
-- [X] 1971 Find if Path Exsits in Graph
+- [X] [1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) -> print all possible paths
+- [ ] [2360. Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph)
+- [ ] [2876. Count Visited Nodes in a Directed Graph](https://leetcode.com/problems/count-visited-nodes-in-a-directed-graph)
+- [X] DFS <-> BFS
+- [X] [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)
 
-class Solution:
-    def wordPattern(self, pattern: str, s: str) -> bool:
-
-    s = s.split()
-
-    return (len(set(pattern)) ==
-                len(set(s)) ==
-                len(set(zip_longest(pattern,s))))
-
-
-
-건의사항 - DFS/BFS를 과연 c로 해야 하는가
+OOP 정리 -> 1월 초
