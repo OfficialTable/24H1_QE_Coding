@@ -56,7 +56,7 @@ def maxProfit(prices: list ) -> int:
     #             max_profit = profit
     #             max_buy_idx = buy
     #             max_sell_idx = sell
-    return max_profit
+    # return max_profit
 
 if __name__ == "__main__":
     print("121_BestTimeToBuyAndSellStock.py")

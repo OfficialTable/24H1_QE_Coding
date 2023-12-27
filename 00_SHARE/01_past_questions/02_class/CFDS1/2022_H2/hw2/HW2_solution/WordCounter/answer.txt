@@ -1,0 +1,40 @@
+Word Count: 36
+Character Count: 152
+Number of Unique Words: 33
+The word appears 2 times
+Word Count: 4
+Character Count: 20
+Number of Unique Words: 4
+The word appears 1 times
+Word Count: 9
+Character Count: 38
+Number of Unique Words: 6
+The word appears 2 times
+Word Count: 11
+Character Count: 70
+Number of Unique Words: 7
+The word appears 2 times
+Word Count: 6
+Character Count: 68
+Number of Unique Words: 6
+The word appears 1 times
+Word Count: 15
+Character Count: 57
+Number of Unique Words: 12
+The word appears 1 times
+Word Count: 1
+Character Count: 19
+Number of Unique Words: 1
+The word appears 0 times
+Word Count: 7
+Character Count: 25
+Number of Unique Words: 6
+The word appears 2 times
+Word Count: 36
+Character Count: 137
+Number of Unique Words: 30
+The word appears 2 times
+Word Count: 8
+Character Count: 29
+Number of Unique Words: 7
+The word appears 2 times

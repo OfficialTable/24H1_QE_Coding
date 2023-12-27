@@ -1,0 +1,3 @@
+It is a TV, Size=500, Price=900 
+It is a Cellphone, Size=180, Price=126 
+It is a Laptop with 0 GPU(s), Size=390, Price=234, Total Price=234 

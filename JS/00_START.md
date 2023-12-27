@@ -38,7 +38,7 @@
 
 ### Week 9 [DFS]
 
-- [] 207 Course Schedule
-- [] 222 Count Complete Tree Nodes
-- [] 310 Minimum Height Trees
-- [] 1971 Find if Path Exists in Graph
+- [x] 207 Course Schedule
+- [x] 222 Count Complete Tree Nodes
+- [x] 310 Minimum Height Trees
+- [x] 1971 Find if Path Exists in Graph

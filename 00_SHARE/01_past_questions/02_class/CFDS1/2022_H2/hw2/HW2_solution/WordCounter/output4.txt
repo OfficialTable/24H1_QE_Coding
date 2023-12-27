@@ -1,0 +1,4 @@
+Word Count: 11
+Character Count: 70
+Number of Unique Words: 7
+The word and appears 2 times
