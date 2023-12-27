@@ -34,3 +34,11 @@
 - 151 Reverse Words in a String
 - 209 Minimum Size Subarray Sum
 - 1312 Minimum Insertion Steps to Make a String Palindrome
+
+
+### Week 9 [DFS]
+
+- [] 207 Course Schedule
+- [] 222 Count Complete Tree Nodes
+- [] 310 Minimum Height Trees
+- [] 1971 Find if Path Exists in Graph
